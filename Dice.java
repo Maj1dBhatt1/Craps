@@ -22,7 +22,7 @@
    {
      int[] rolls = new int[2];
      rolls[0] = d1.roll();
-     rolls[2] = d2.roll();
+     rolls[1] = d2.roll();
      return rolls;
    }
 
